@@ -1,0 +1,495 @@
+fileFormatVersion: 2
+guid: 574c888ec567688468c075c1d2cf8c72
+timeCreated: 1435414048
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: riho-sheet_0
+    21300002: riho-sheet_1
+    21300004: riho-sheet_2
+    21300006: riho-sheet_3
+    21300008: riho-sheet_4
+    21300010: riho-sheet_5
+    21300012: riho-sheet_6
+    21300014: riho-sheet_7
+    21300016: riho-sheet_8
+    21300018: riho-sheet_9
+    21300020: riho-sheet_10
+    21300022: riho-sheet_11
+    21300024: riho-sheet_12
+    21300026: riho-sheet_13
+    21300028: riho-sheet_14
+    21300030: riho-sheet_15
+    21300032: riho-sheet_16
+    21300034: riho-sheet_17
+    21300036: riho-sheet_18
+    21300038: riho-sheet_19
+    21300040: riho-sheet_20
+    21300042: riho-sheet_21
+    21300044: riho-sheet_22
+    21300046: riho-sheet_23
+    21300048: riho-sheet_24
+    21300050: riho-sheet_25
+    21300052: riho-sheet_26
+    21300054: riho-sheet_27
+    21300056: riho-sheet_28
+    21300058: riho-sheet_29
+    21300060: riho-sheet_30
+    21300062: riho-sheet_31
+    21300064: riho-sheet_32
+    21300066: riho-sheet_33
+    21300068: riho-sheet_34
+    21300070: riho-sheet_35
+    21300072: riho-sheet_36
+    21300074: riho-sheet_37
+    21300076: riho-sheet_38
+    21300078: riho-sheet_39
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: riho-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 738
+        width: 233
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: riho-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 759
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: riho-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 707
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: riho-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 708
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: riho-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 723
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: riho-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 715
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: riho-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 728
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: riho-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 710
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: riho-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 708
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: riho-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 704
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: riho-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 710
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: riho-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 705
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: riho-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 700
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: riho-sheet_13
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 659
+        width: 55
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: riho-sheet_14
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 659
+        width: 55
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: riho-sheet_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 659
+        width: 55
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: riho-sheet_16
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 687
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: riho-sheet_17
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 673
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: riho-sheet_18
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 613
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: riho-sheet_19
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 649
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: riho-sheet_20
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 614
+        width: 51
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: riho-sheet_21
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 612
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: riho-sheet_22
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 613
+        width: 52
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: riho-sheet_23
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 570
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: riho-sheet_24
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 571
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: riho-sheet_25
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 573
+        width: 58
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: riho-sheet_26
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 566
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: riho-sheet_27
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 505
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: riho-sheet_28
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 507
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: riho-sheet_29
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 506
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: riho-sheet_30
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 392
+        width: 50
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: riho-sheet_31
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 393
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: riho-sheet_32
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 399
+        width: 59
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: riho-sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 268
+        width: 136
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: riho-sheet_34
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 252
+        width: 97
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: riho-sheet_35
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 139
+        width: 54
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: riho-sheet_36
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 134
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: riho-sheet_37
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 133
+        width: 63
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: riho-sheet_38
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 33
+        width: 136
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: riho-sheet_39
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 16
+        width: 97
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
